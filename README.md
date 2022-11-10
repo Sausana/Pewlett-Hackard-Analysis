@@ -9,7 +9,7 @@ Another point to consider is that employees don't stay in the same position for 
 Most of the soon to be retirees are at the senior level positions. It would be wise for management to monitor those positions since they are the most likely to retire and need replacement.
 
 Finally, the majority of retirees are in either the Engineer or Staff position. Management should focus on those departments accordingly when implementing their new hiring strategies.
-
+![Images/retiring_titles]
 ### Summary
 Management will need to fill 72,458 roles as the "silver tsunami" begins to make an impact and more employees are retiring. However, only 1,549 employees are currently eligible to be mentors in the program. As a result, there won't be enough mentors to take on the task of coaching the next generation of employees. An additional query that would help us better understand management's situation is one in which shows a breakdown of titles for the employees that are eligible for the mentorship program. In conclusion, management will have to pay close attention to those in senior positions and begin to promote employees at an earlier age.
 
